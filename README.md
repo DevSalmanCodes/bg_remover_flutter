@@ -1,3 +1,3 @@
-# bg_remover_fltuter
+# bg_remover_flutter
 
 A new Flutter project.
