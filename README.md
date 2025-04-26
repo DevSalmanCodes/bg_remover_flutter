@@ -1,6 +1,6 @@
-# 🖼️ BG Remover Flutter
+# 🖼️ BG Remover Flutter App
 
-Remove backgrounds from images using Flutter with ease! 🚀 Using <a href"https://www.remove.bg" target="_blank">remove.bg</a> services to remove background from images.
+Remove backgrounds from images using Flutter with ease! 🚀 Using <a href="https://www.remove.bg" target="_blank">remove.bg</a> services to remove background from images.
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.29.2-blue?logo=flutter)](https://flutter.dev) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -17,9 +17,9 @@ Remove backgrounds from images using Flutter with ease! 🚀 Using <a href"https
 
 ## 📸 Screenshots
 
-| Home Screen | Result Screen |
-| :---: | :---: |
-| ![Home Screen](assets/screenshots/home_screen.png) | ![Result Screen](assets/screenshots/result_screen.png) |
+| Home Screen | Result Screen | Result Picture
+| :---: | :---: | :---: |
+| ![Home Screen](https://github.com/AbdullahProjects/bg_remover_flutter/blob/main/Screenshots/Screenshot%202025-04-26%201.png) | ![Result Screen](https://github.com/AbdullahProjects/bg_remover_flutter/blob/main/Screenshots/Screenshot%202025-04-26%202.png) | ![Result Picture](https://github.com/AbdullahProjects/bg_remover_flutter/blob/main/Screenshots/Screenshot%202025-04-26%203.png)
 
 ---
 
